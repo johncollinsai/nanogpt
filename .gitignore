@@ -12,7 +12,7 @@ venv/
 logs/
 
 # working files, which I generally name 'rem'
-rem.*
+rem.* REM.*
 
 # environment variables
 .env
