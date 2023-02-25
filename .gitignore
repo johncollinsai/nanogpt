@@ -10,6 +10,8 @@ data/
 # venv and logs
 venv/
 logs/
+lambda-stack-with-tensorflow-pytorch/
+lambda-stack-without-tensorflow/
 
 # working files, which I generally name 'rem'
 rem.* REM.*
