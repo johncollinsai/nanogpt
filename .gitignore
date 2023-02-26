@@ -3,6 +3,7 @@
 *.xls*
 *.pkl
 data/
+input.txt
 
 # jupyter checkpoints
 .ipynb_checkpoints/
